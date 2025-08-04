@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044799852039",
+    "project_id": "talleriot-1a641",
+    "storage_bucket": "talleriot-1a641.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044799852039:android:23f10c069466738840e4a2",
+        "android_client_info": {
+          "package_name": "com.example.talleriot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkt0yNuSZHOrysr_Zek5YuoV6hAmEiKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
