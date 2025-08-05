@@ -66,7 +66,7 @@ class ControlActivity : AppCompatActivity() {
             startActivity(Intent(this, InfoActivity::class.java))
         }
 
-        // Botón actualizar (opcional si usas escucha en tiempo real)
+        // Botón actualizar
         findViewById<Button>(R.id.btnActualizar).setOnClickListener {
             tempRef.get().addOnSuccessListener {
                 val temp = it.getValue(Double::class.java)
